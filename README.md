@@ -4,15 +4,13 @@ Check out our __Hospital Management System__ website project! It's like a super 
 The project utilizes a comprehensive array of tools and techniques to ensure its successful development and execution.
 Key components include:
 
-__Database Management System (DBMS):__
-MySQL
-__Web Development Technologies:__
-PHP, JavaScript, CSS, HTML
-__Development Environment:__
-XAMPP, Visual Studio Code (VS Code), Documentation and Planning:
+__Database Management System (DBMS):__ MySQL
+__Web Development Technologies:__ PHP, JavaScript, CSS, HTML 
+__Development Environment:__ XAMPP, Visual Studio Code (VS Code), Documentation and Planning:
 __GitMind__ for visualizing project workflows and structures
 __Microsoft Word__ for detailed project documentation
 __Microsoft Excel__ for data analysis and organization
+
 Furthermore, the project incorporates essential database design principles and methodologies, including:
 __Entity-Relationship (ER) Diagram:__ An integral visual representation of the database entities and their relationships.
 __Relational Schema:__ A structured description of the database tables, attributes, and their relationships.

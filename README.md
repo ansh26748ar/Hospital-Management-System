@@ -5,15 +5,25 @@ The project utilizes a comprehensive array of tools and techniques to ensure its
 Key components include:
 
 __Database Management System (DBMS):__ MySQL
+
 __Web Development Technologies:__ PHP, JavaScript, CSS, HTML 
-__Development Environment:__ XAMPP, Visual Studio Code (VS Code), Documentation and Planning:
+
+__Development Environment:__ XAMPP, Visual Studio Code (VS Code), 
+
+Documentation and Planning:
+
 __GitMind__ for visualizing project workflows and structures
+
 __Microsoft Word__ for detailed project documentation
+
 __Microsoft Excel__ for data analysis and organization
 
 Furthermore, the project incorporates essential database design principles and methodologies, including:
+
 __Entity-Relationship (ER) Diagram:__ An integral visual representation of the database entities and their relationships.
+
 __Relational Schema:__ A structured description of the database tables, attributes, and their relationships.
+
 __Normalization:__ Ensures data integrity and minimizes redundancy through the application of normalization techniques.
 
 These tools, techniques, and database design methodologies collectively contribute to the project's professionalism, efficiency, and successful implementation.

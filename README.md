@@ -19,9 +19,15 @@ __Microsoft Excel__ for data analysis and organization
 Furthermore, the project incorporates essential database design principles and methodologies, including:
 
 __Entity-Relationship (ER) Diagram:__ An integral visual representation of the database entities and their relationships.
+
 __Relational Schema:__ A structured description of the database tables, attributes, and their relationships.
+
 __Normalization:__ Ensures data integrity and minimizes redundancy through the application of normalization techniques.
+
 These tools, techniques, and database design methodologies collectively contribute to the project's professionalism, efficiency, and successful implementation.
 
-check out the attached file enclosed herewith.
-[Download PDF]([https://example.com/path-to-your-pdf-file.pdf](https://drive.google.com/file/d/124vwpe9zXkkQzaNNgu7zhqwA66W7teoT/view?usp=drive_link)https://drive.google.com/file/d/124vwpe9zXkkQzaNNgu7zhqwA66W7teoT/view?usp=drive_link)
+Check out the attached file enclosed herewith.
+[Download PDF](https://drive.google.com/file/d/124vwpe9zXkkQzaNNgu7zhqwA66W7teoT/view?usp=drive_link)
+
+
+https://drive.google.com/file/d/124vwpe9zXkkQzaNNgu7zhqwA66W7teoT/view?usp=drive_link
